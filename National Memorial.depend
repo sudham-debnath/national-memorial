@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655838207 source:c:\users\asus\music\national memorial\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<math.h>
+
